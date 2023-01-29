@@ -1,0 +1,9 @@
+{
+    "profile": "default",
+    "region": "eu-west-2",
+    "configuration": "Release",
+    "stack-name": "monspire-companieshouse-api-dev",
+    "s3-bucket": "monspire-companieshouse-api-dev",
+    "template": "serverless.template",
+    "template-parameters": "Environment=dev;BuildVersion=1;"
+}
